@@ -3,3 +3,5 @@ This directory contains all the source code for the Centipede Game.
 cpp_main: 	contains main file which uses objects created to build and play Centipede Game.
 cpp_objects: 	contains game objects including Player, Centipede, Laser Shots, Muschrooms...
 header_files: 	contains header files linking objects together. 
+
+Head to game&docs/executables to play centipede.exe
